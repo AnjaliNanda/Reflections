@@ -1,3 +1,8 @@
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 -staging area keeps the file temporarily 
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+-branches would be helpful in situations where we dont we want to keep two versions of the same file with some modifications in another version
+ (like one english and one italian version) or (easy and hard game) 
